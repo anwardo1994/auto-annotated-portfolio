@@ -20,13 +20,6 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
           pharetra ipsum dolor, et iaculis elit ornare ac.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            /images/s_530645359-gs_7-is_30-u_1-oi_1-An_image_that_expresses_the_disadvantages_of_artificial_intelligence_in_the_field_of_financial_tradi-1024x1024.webp
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: ''
