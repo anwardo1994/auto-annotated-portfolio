@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      rket trends, identifies the most profiFast, secure, and incredibly
-      efficient, this AI-powered solution ensures your moning!
+    title: GOLDEN AI
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
