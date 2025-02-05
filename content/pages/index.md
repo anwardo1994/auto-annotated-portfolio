@@ -188,5 +188,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-socialImage: /images/999.jfif
+socialImage: /images/bg4.jpg
 ---
